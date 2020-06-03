@@ -1,0 +1,86 @@
+division	China	#5E1D9D
+division	Hubei	#501EA9
+division	Beijing	#4A27B2
+division	Hangzhou	#4530BB
+division	Taiwan	#4039C4
+division	Saitama	#3F45C8
+division	South Korea	#3F51CC
+division	Sri Lanka	#3E5CD0
+division	Iran	#4067CF
+division	Ho Chi Minh City	#4272CE
+division	Thailand	#447DCC
+division	Malaysia	#4785C7
+division	India	#4B8EC2
+division	Victoria	#4E96BC
+division	Guam	#539CB4
+division	France	#58A2AC
+division	Spain	#5DA8A3
+division	Bavaria	#63AC9A
+division	Netherlands	#69B091
+division	Athens	#6FB388
+division	Uruguay	#76B680
+division	USA	#7DB877
+division	Florida	#85BA6F
+division	Georgia	#8DBC68
+division	Louisiana	#95BD61
+division	North Carolina	#9DBE5A
+division	South Carolina	#A5BE55
+division	Virginia	#AEBD50
+division	Connecticut	#B6BD4B
+division	New York	#BEBB48
+division	Massachusetts	#C5B945
+division	Pennsylvania	#CDB642
+division	Ohio	#D3B240
+division	Indiana	#D8AE3E
+division	Illinois	#DDA83C
+division	Wisconsin	#E1A13A
+division	Michigan	#E49938
+division	Nebraska	#E69036
+division	Arizona	#E68534
+division	Utah	#E67A32
+division	Idaho	#E56E30
+division	California	#E3602D
+division	Washington	#E1522A
+division	Hawaii	#DF4428
+division	Jamaica	#DD3625
+division	Alaska	#DB2823
+
+location	Wuhan	#4580CA
+location	Madison	#6BB28D
+location	San Francisco	#AABD52
+location	East Feliciana Parish	#DFA43B
+
+country	China	#5E1D9D
+country	Taiwan	#492AB5
+country	Japan	#4042C7
+country	South Korea	#3E5DD0
+country	India	#4377CD
+country	Sri Lanka	#4A8CC2
+country	Vietnam	#549DB2
+country	Thailand	#60AA9E
+country	Malaysia	#6EB389
+country	Guam	#80B974
+country	Australia	#92BC63
+country	Iran	#A6BE55
+country	France	#B9BC4A
+country	Netherlands	#CBB742
+country	Germany	#D9AD3D
+country	Spain	#E29D39
+country	Greece	#E68634
+country	Uruguay	#E56A2F
+country	Jamaica	#E04929
+country	USA	#DB2823
+
+recency	Older	#416DCE
+recency	One month ago	#59A3AA
+recency	One week ago	#84BA6F
+recency	3-7 days ago	#BBBC49
+recency	1-2 days ago	#E29D39
+recency	New	#E1502A
+
+region	Asia	#4377CD
+region	Oceania	#61AB9D
+region	Europe	#94BD61
+region	South America	#CDB642
+region	North America	#E68133
+
